@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.qs.com	TRUE	/	FALSE	1999999999	__cfduid	dccced3d4360a1c16abba0bb6a1ed7ace1543237894
+www.qs.com	TRUE	/	FALSE	1999999999	SERVERID	QS-1
+www.qs.com	TRUE	/	FALSE	1999999999	apbct_site_landing_ts	1543237899
+www.qs.com	TRUE	/	FALSE	1999999999	ct_cookies_test	b6d0b276e1e443da67bb6ff90b322c15
+www.qs.com	TRUE	/	FALSE	1999999999	apbct_timestamp	1543237977
+www.qs.com	TRUE	/	FALSE	1999999999	apbct_prev_referer	http%3A%2F%2Fwww.qs.com%2F
+www.qs.com	TRUE	/	FALSE	1999999999	apbct_page_hits	12
+www.qs.com	TRUE	/	FALSE	1999999999	apbct_cookies_test	%7B%22cookies_names%22%3A%5B%22apbct_timestamp%22%2C%22apbct_prev_referer%22%2C%22apbct_site_landing_ts%22%2C%22apbct_page_hits%22%5D%2C%22check_value%22%3A%22040703960306db22663000d8b305ea0d%22%7D
+
